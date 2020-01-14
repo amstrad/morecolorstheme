@@ -1,15 +1,15 @@
-<scheme name="Dieguin Dark copy" version="142" parent_scheme="Default">
+<scheme name="MoreColors" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-11-12T18:41:35</property>
+    <property name="created">2020-01-14T21:19:32</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2019-11-12T18:42:00</property>
-    <property name="originalScheme">Dieguin Dark copy</property>
+    <property name="ideVersion">2019.3.0.0</property>
+    <property name="modified">2020-01-14T21:19:38</property>
+    <property name="originalScheme">MoreColors</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monoid NF" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
